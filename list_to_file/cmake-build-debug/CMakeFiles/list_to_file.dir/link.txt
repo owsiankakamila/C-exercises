@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/list_to_file.dir/main.c.o  -o list_to_file 

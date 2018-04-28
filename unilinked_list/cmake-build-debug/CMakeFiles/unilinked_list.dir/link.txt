@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/unilinked_list.dir/main.c.o  -o unilinked_list 

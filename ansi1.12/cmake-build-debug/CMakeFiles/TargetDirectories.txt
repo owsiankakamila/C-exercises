@@ -1,0 +1,3 @@
+/home/kamila/CLionProjects/ansi1.12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamila/CLionProjects/ansi1.12/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamila/CLionProjects/ansi1.12/cmake-build-debug/CMakeFiles/ansi1_12.dir

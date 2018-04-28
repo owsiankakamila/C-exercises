@@ -1,0 +1,24 @@
+#include <stdio.h>
+int zamianaSystemu(int liczba, int system);
+
+int main (void){
+
+
+
+
+	return 0;
+}
+
+
+int zamianaSystemu(int liczba, int system)}
+	int reszta,i;
+	i=0;
+	while (liczba!=1){
+		reszta=liczba%system;
+		liczba=liczba/system;
+		nowaliczba= reszta*
+		i++
+		
+	}
+
+}

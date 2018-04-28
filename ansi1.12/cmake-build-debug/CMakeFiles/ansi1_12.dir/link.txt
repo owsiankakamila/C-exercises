@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ansi1_12.dir/main.c.o  -o ansi1_12 

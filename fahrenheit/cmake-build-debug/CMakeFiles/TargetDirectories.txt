@@ -1,0 +1,3 @@
+/home/kamila/CLionProjects/fahrenheit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamila/CLionProjects/fahrenheit/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamila/CLionProjects/fahrenheit/cmake-build-debug/CMakeFiles/fahrenheit.dir

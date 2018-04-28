@@ -1,0 +1,3 @@
+/home/kamila/Programming/C/CLionProjects/list_to_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kamila/Programming/C/CLionProjects/list_to_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamila/Programming/C/CLionProjects/list_to_file/cmake-build-debug/CMakeFiles/list_to_file.dir

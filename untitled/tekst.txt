@@ -1,0 +1,5 @@
+Istnieją dwie metody obsługi czytania i pisania do plików:
+wysokopoziomowa,
+niskopoziomowa. [1]
+Nazwy funkcji z pierwszej grupy zaczynają się od litery "f" (np. fopen(), fread(), fclose()), a identyfikatorem pliku jest wskaźnik na strukturę typu FILE. Owa struktura to pewna grupa zmiennych, która przechowuje dane o pliku - jak na przykład aktualną pozycję w nim. Szczegółami nie musisz się przejmować, funkcje biblioteki standardowej same zajmują się wykorzystaniem struktury FILE. Programista może więc zapomnieć, czym tak naprawdę jest struktura FILE i traktować taką zmienną jako "uchwyt", identyfikator pliku.
+Druga grupa to funkcje typu read(), open(), write() i close().
